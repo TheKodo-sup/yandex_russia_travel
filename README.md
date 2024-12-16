@@ -21,3 +21,7 @@ https://github.com/TheKodo-sup/yandex_russia_travel
 - Адаптивная верстка под размеры экранов 1280px, 1024px, 768px, 320px
 - БЭМ Nested
 - Псевдоклассы CSS
+
+## Cсылка на сайт
+
+https://thekodo-sup.github.io/yandex_russia_travel/
