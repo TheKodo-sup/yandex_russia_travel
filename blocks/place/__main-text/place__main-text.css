@@ -1,0 +1,26 @@
+.place__main-text {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: #ffffff;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 163%;
+  text-rendering: optimizeLegibility;
+}
+
+@media screen and (max-width: 896px) {
+  .place__main-text {
+      font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 544px) {
+  .place__main-text {
+      margin-left: 16px;
+  }
+}
+
